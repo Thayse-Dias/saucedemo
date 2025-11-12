@@ -1,8 +1,8 @@
 🧪 SauceDemo Automation Test Suite
 
-https://img.shields.io/badge/Cypress-15.6.0-brightgreen
-https://img.shields.io/badge/Mochawesome-7.1.3-blue
-https://img.shields.io/badge/Node.js-18%252B-green
+![Cypress](https://img.shields.io/badge/Cypress-15.6.0-brightgreen)
+![Mochawesome](https://img.shields.io/badge/Mochawesome-7.1.3-blue)
+![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)
 
 Uma suíte completa de testes automatizados para a aplicação SauceDemo, implementando boas práticas de QA Automation com Cypress e relatórios detalhados com Mochawesome.
 
