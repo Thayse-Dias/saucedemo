@@ -1,0 +1,36 @@
+{
+  "users": {
+    "standard": {
+      "username": "standard_user",
+      "password": "secret_sauce"
+    },
+    "locked": {
+      "username": "locked_out_user", 
+      "password": "secret_sauce"
+    },
+    "problem": {
+      "username": "problem_user",
+      "password": "secret_sauce"
+    }
+  },
+  "products": {
+    "backpack": {
+      "id": 4,
+      "name": "Sauce Labs Backpack"
+    },
+    "bikeLight": {
+      "id": 0,
+      "name": "Sauce Labs Bike Light"
+    },
+    "boltTshirt": {
+      "id": 1,
+      "name": "Sauce Labs Bolt T-Shirt"
+    }
+  },
+  "endpoints": {
+    "login": "/api/auth/login",
+    "inventory": "/api/inventory.html",
+    "cart": "/api/cart",
+    "checkout": "/api/checkout"
+  }
+}

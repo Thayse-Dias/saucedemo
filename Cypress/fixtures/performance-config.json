@@ -1,0 +1,28 @@
+{
+  "thresholds": {
+    "production": {
+      "performance": 70,
+      "accessibility": 90,
+      "best-practices": 90,
+      "seo": 90,
+      "pwa": 50
+    },
+    "development": {
+      "performance": 30,
+      "accessibility": 80,
+      "best-practices": 80,
+      "seo": 80,
+      "pwa": 20
+    }
+  },
+  "metrics": {
+    "maxLoadTime": 3000,
+    "maxLoginTime": 5000,
+    "maxInteractionTime": 2000
+  },
+  "devices": {
+    "desktop": { "width": 1280, "height": 720 },
+    "tablet": { "width": 768, "height": 1024 },
+    "mobile": { "width": 375, "height": 667 }
+  }
+}
