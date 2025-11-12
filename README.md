@@ -1,4 +1,4 @@
-🧪 SauceDemo Automation Test Suite
+## 🧪 SauceDemo Automation Test Suite
 
 ![Cypress](https://img.shields.io/badge/Cypress-15.6.0-brightgreen)
 ![Mochawesome](https://img.shields.io/badge/Mochawesome-7.1.3-blue)
@@ -12,7 +12,7 @@ Uma suíte completa de testes automatizados para a aplicação SauceDemo, implem
 
 - Funcionalidades Testadas
 
-- ecnologias Utilizadas
+- Tecnologias Utilizadas
 
 - Estrutura do Projeto
 
